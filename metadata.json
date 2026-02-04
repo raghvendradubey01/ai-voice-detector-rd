@@ -1,0 +1,8 @@
+
+{
+  "name": "Voice Detecting AI",
+  "description": "A sophisticated AI-powered voice analysis tool designed to distinguish between human speech and synthetic AI-generated audio across multiple languages including Tamil, English, Hindi, Malayalam, and Telugu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
